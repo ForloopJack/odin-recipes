@@ -1,0 +1,52 @@
+/*index*/
+
+.main-title {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+    font-size: 40px;
+}
+
+#title {
+    background-color: lightgreen;
+    position: relative;
+    padding: 30px;
+}
+
+/*this is the menu bar*/
+.menu {
+    background-color: black;
+    position: relative;
+    bottom: 17px;
+}
+
+/*these are the single links of the menu*/
+.ul-list li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    background-color: black;
+}
+
+/*this is how the list should be displayed*/
+.ul-list li {
+    display: inline-block;
+}
+
+/*these are the general rules for the list*/
+.ul-list {
+    color: black;
+    font-size: 17px;
+    font-weight: bold;  
+    font-family: monospace, sans-serif;
+}
+
+.ul-list li a:hover {
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+}
