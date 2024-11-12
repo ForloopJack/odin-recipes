@@ -1,0 +1,38 @@
+.main-title {
+    font-family: monospace, Tahoma, sans-serif;
+    text-align: center;
+    background-color: lightgreen;
+    padding: 30px;
+}
+
+.image {
+    text-align: center;
+    
+    position: relative;
+    bottom: 22px;
+}
+
+.main-image {
+    height: 458px;
+    width: auto;
+}
+
+.title-base {
+    font-family: monospace, Tahoma, sans-serif;
+    text-align: center;
+    padding: 8px;
+}
+
+.standard-par,
+#list {
+    font-family: monospace, Tahoma, sans-serif;
+}
+
+#list {
+    position: relative;
+    right: 25px;
+}
+
+#ol-list {
+    font-family: monospace, Tahoma, sans-serif;
+}
